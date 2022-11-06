@@ -66,8 +66,7 @@ I am an Information Security Analyst heavily interested in big data and analytic
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [SQL Daily Practice Problems — 1](https://medium.com/@cmor3/sql-daily-practice-problems-1-7d50567a7130?source=rss-515980d3c555------2)
 - [How to Create a Budget in Azure](https://medium.com/@cmor3/how-to-create-a-budget-in-azure-95ec4fddffb1?source=rss-515980d3c555------2)
-- [On-prem to Cloud Site 2 Site VPN](https://medium.com/@cmor3/on-prem-to-cloud-site-2-site-vpn-ccc212365072?source=rss-515980d3c555------2)
-- [On-prem to Cloud Site2Site VPN](https://medium.com/@cmor3/on-prem-to-cloud-site2site-vpn-50f83a5d876b?source=rss-515980d3c555------2)
-- [On-prem to Cloud Database Migration with AWS](https://medium.com/@cmor3/on-prem-to-cloud-database-migration-with-aws-1faedb5d33d9?source=rss-515980d3c555------2)
+- [How to Upload a Static Website on AWS S3](https://medium.com/@cmor3/how-to-upload-a-static-website-on-aws-s3-8b1f0f0aa5a5?source=rss-515980d3c555------2)
 <!-- BLOG-POST-LIST:END -->
