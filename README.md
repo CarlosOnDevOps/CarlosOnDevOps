@@ -66,8 +66,8 @@ I am an Information Security Analyst heavily interested in big data and analytic
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [How to Install MySQL and MySQL Workbench &lpar;Simplified&rpar;](https://medium.com/@cmor3/how-to-install-mysql-and-mysql-workbench-simplified-bbcf637f28f0?source=rss-515980d3c555------2)
 - [An Insightful Survey of Database Professionals](https://medium.com/@cmor3/an-insightful-survey-of-database-professionals-c2721af9d65e?source=rss-515980d3c555------2)
 - [SQL Daily Practice Problems — 1](https://medium.com/@cmor3/sql-daily-practice-problems-1-7d50567a7130?source=rss-515980d3c555------2)
 - [How to Create a Budget in Azure](https://medium.com/@cmor3/how-to-create-a-budget-in-azure-95ec4fddffb1?source=rss-515980d3c555------2)
-- [How to Upload a Static Website on AWS S3](https://medium.com/@cmor3/how-to-upload-a-static-website-on-aws-s3-8b1f0f0aa5a5?source=rss-515980d3c555------2)
 <!-- BLOG-POST-LIST:END -->
