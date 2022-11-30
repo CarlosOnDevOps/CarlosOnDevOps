@@ -24,7 +24,7 @@
 
 ---
 
-### :man_technologist: About Me :
+# :man_technologist: About Me
 I am an Information Security Analyst heavily interested in big data and analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> looking to land a sweet gig as a Business Intelligence Specialist or Data Analyst. 
 - :brain: I’m working as an Information Security Analyst and contributing to cloud and on-prem network environment security.
 
@@ -36,7 +36,7 @@ I am an Information Security Analyst heavily interested in big data and analytic
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Skills and Toolset 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
@@ -57,14 +57,21 @@ I am an Information Security Analyst heavily interested in big data and analytic
 
 ---
 
-### :fire: My Stats :
+# 🥇 Certifications
+- CompTIA
+- Cisco
+- Microsoft
+- Amazon
+---
+
+# 📈 My Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CarlosOnDevOps&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOnDevOps)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :writing_hand: Blog Posts :
+# :writing_hand: Guided Articles and Tutorials
 <!-- BLOG-POST-LIST:START -->
 - [How to Install MySQL and MySQL Workbench &lpar;Simplified&rpar;](https://medium.com/@cmor3/how-to-install-mysql-and-mysql-workbench-simplified-bbcf637f28f0?source=rss-515980d3c555------2)
 - [An Insightful Survey of Database Professionals](https://medium.com/@cmor3/an-insightful-survey-of-database-professionals-c2721af9d65e?source=rss-515980d3c555------2)
