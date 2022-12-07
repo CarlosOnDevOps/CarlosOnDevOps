@@ -73,6 +73,10 @@ I genuinely enjoy assembling data sets, creating and modifying databases using d
 
 # 🥇 [My Certifications](https://www.credly.com/users/jose-carlos-moreno.dc467b83)
 ### [Microsoft](https://www.credly.com/org/microsoft-certification)
+![image](https://user-images.githubusercontent.com/111383078/206214420-966eddc8-e4f3-4135-a4c3-e54c052ba110.png)
+<br /> *(in-progress)*
+>Earning the Power BI Data Analyst Associate certification validates the skills and knowledge required to enable businesses to maximize the value of their data assets by using Microsoft Power BI. As a subject matter expert, Data Analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations.
+
 ![image](https://user-images.githubusercontent.com/111383078/206022748-08fcdf05-d091-43c8-891d-bcf15766a98a.png)
 > Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
 
