@@ -45,7 +45,7 @@ I genuinely enjoy assembling data sets, creating and modifying databases using d
 - [How to Install PostgreSQL and PgAdmin 4 &lpar;Simplified&rpar;](https://medium.com/@cmor3/how-to-install-postgresql-and-pgadmin-4-simplified-270e0b32a05b?source=rss-515980d3c555------2)
 - [How to Install MySQL and MySQL Workbench &lpar;Simplified&rpar;](https://medium.com/@cmor3/how-to-install-mysql-and-mysql-workbench-simplified-bbcf637f28f0?source=rss-515980d3c555------2)
 - [An Insightful Survey of Database Professionals](https://medium.com/@cmor3/an-insightful-survey-of-database-professionals-c2721af9d65e?source=rss-515980d3c555------2)
-- [SQL Daily Practice Problems — 1](https://medium.com/@cmor3/sql-daily-practice-problems-1-7d50567a7130?source=rss-515980d3c555------2)
+- [How to Create a Budget in Azure](https://medium.com/@cmor3/how-to-create-a-budget-in-azure-95ec4fddffb1?source=rss-515980d3c555------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
