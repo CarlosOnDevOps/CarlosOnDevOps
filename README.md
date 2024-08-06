@@ -5,17 +5,17 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     </a>
-    <a href="https://twitter.com/CarlosOnDevops">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="your-tiktok-URL">
+      <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
     </a>
   </div>
-     <img src="https://komarev.com/ghpvc/?username=CarlosOnDevOps&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=CarlosOnDevOps&style=flat-square&color=blue" alt=""/>
   <h1>
-  How's it going! 
+  Hello World! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </h1>
 </div>  
 
 <div align="center">
@@ -25,14 +25,13 @@
 ---
 
 # :man_technologist: [About Me](https://www.linkedin.com/in/carlosonthecloud/)
-I have a strong interest in data analysis and hold a Bachelor's degree in Data Management and Data Analytics. I'm looking for a position that will let me put these skills to work in solving issues. <br />
-I genuinely enjoy assembling data sets, creating and modifying databases using data programming languages (SQL, Python, R), and then utilizing Power BI to present visual stories based off that data.  <br />
+I'm just another data professional that likes extracting, transforming, and loading data sets to see what secrets are hidden in the chaos, and then tell visual stories based off that data.  <br />
 
-:brain: **Profession:** `Information Security Analyst` primarily responsible for securing on-premesis networks, cloud environments, and databases for over 160+ customers with a focus in the financial sector.
+:brain: **Profession:** `Data Analyst` primarily responsible for <advanced analyst stuff>
 
-:seedling: **What am I currently working on?** Developing `backend databases`, exploring interesting `data sets`, and converting interesting data into meaningful visual reports using `Power BI`.
+:seedling: **What am I currently working on?** <fun data science projects>
 
-:bar_chart: **In my free time** I like to practice `Python, SQL, and R`, write `technical documents` after completing fun projects, and read tech articles.
+:bar_chart: **In my personal projects** I like to <more fun data science stuff>
 
 :mailbox: **You can reach me at my:** [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-carlos-moreno-aa2a18192)
 
@@ -55,52 +54,63 @@ I genuinely enjoy assembling data sets, creating and modifying databases using d
 ### Programming and Scripting
 - **Languages**: 
   - <img src="https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white" alt="SAS">
-  - <img src="https://img.shields.io/badge/SQL-00416A?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  - <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  - <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  - <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  - <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell">
-  - <img src="https://img.shields.io/badge/DAX-002366?style=for-the-badge&logo=power-bi&logoColor=white" alt="DAX">
+    <img src="https://img.shields.io/badge/SQL-00416A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"> 
+    <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell"> 
+    <img src="https://img.shields.io/badge/DAX-002366?style=for-the-badge&logo=power-bi&logoColor=white" alt="DAX">
 
 ### Databases
 - **Relational Databases**: 
   - <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  - <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  - <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
-  - <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"> 
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 
 ### Visualization Tools 
 - **Data Visualization**:
   - <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
-  - <img src="https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white" alt="SAS">
-  - <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-  - <img src="https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="matplotlib">
-  - <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  - <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly">
-  - <img src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="seaborn">
-  - <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy">
-  - <img src="https://img.shields.io/badge/wordcloud-3A7DFF?style=for-the-badge&logo=python&logoColor=white" alt="wordcloud">
-  - <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+    <img src="https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white" alt="SAS"> 
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"> 
+    <img src="https://img.shields.io/badge/Matplotlib-FF4F00?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"> 
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"> 
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+    <img src="https://img.shields.io/badge/Wordcloud-3A7DFF?style=for-the-badge&logo=python&logoColor=white" alt="Wordcloud">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 
 ### Integrated Development Environment (IDE)
 - <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-- <img src="https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks">
+  <img src="https://img.shields.io/badge/Toad%20Data%20Point-009639?style=for-the-badge&logo=toad&logoColor=white" alt="Toad Data Point">
 
 ### Cloud Computing
 - <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> (Experience in deploying data solutions on AWS)
 - <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"> (Experience in Azure-based data projects)
 - <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"> (Exploring GCP for future data projects)
   
-## Future Skills
-### Big Data
-- <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark"> (Planning to learn for big data processing)
-- ...
-
+## :chart_with_upwards_trend: Data Science Skills
 ### Machine Learning
 - <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"> (Future interest in machine learning)
-- ...
+- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> (Future interest in deep learning)
+- <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"> (Future interest in neural networks)
+- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> (Future interest in deep learning)
+
+### Data Analysis
+- <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> (Currently using for data manipulation)
+- <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> (Currently using for numerical analysis)
+- <img src="https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks"> (Currently using for interactive coding and data analysis)
+- <img src="https://img.shields.io/badge/Matplotlib-FF4F00?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"> (Currently using for data visualization)
+- <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"> (Currently using for statistical data visualization)
+- <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"> (Future interest in interactive visualizations)
+- <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"> (Currently using for business intelligence and dashboards)
+- <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"> (Future interest in business intelligence and dashboards)
+- <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"> (Currently using for data analysis and reporting)
+
+
+### Other Tools
+- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> (Currently using for version control)
 
 
 ## Profiles
@@ -112,11 +122,6 @@ I genuinely enjoy assembling data sets, creating and modifying databases using d
 ---
 
 # 🥇 [My Certifications](https://www.credly.com/users/jose-carlos-moreno.dc467b83)
-### [Microsoft](https://www.credly.com/org/microsoft-certification)
-![image](https://user-images.githubusercontent.com/111383078/206214420-966eddc8-e4f3-4135-a4c3-e54c052ba110.png)
-<br /> *(in-progress)*
->Earning the Power BI Data Analyst Associate certification validates the skills and knowledge required to enable businesses to maximize the value of their data assets by using Microsoft Power BI. As a subject matter expert, Data Analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations.
-
 ![image](https://user-images.githubusercontent.com/111383078/206022748-08fcdf05-d091-43c8-891d-bcf15766a98a.png)
 > Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
 
