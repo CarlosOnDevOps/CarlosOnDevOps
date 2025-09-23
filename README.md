@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/carlosonthecloud">
+    <a href="">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
@@ -24,7 +24,7 @@
 
 ---
 
-# :man_technologist: [About Me](https://www.linkedin.com/in/carlosonthecloud/)
+# :man_technologist: [About Me]()
 I'm just another data professional that likes extracting, transforming, and loading data sets to see what secrets are hidden in the chaos, and then tell visual stories based off that data.  <br />
 
 :brain: **Profession:** `Data Analyst` primarily responsible for <advanced analyst stuff>
@@ -33,7 +33,7 @@ I'm just another data professional that likes extracting, transforming, and load
 
 :bar_chart: **In my personal projects** I like to <more fun data science stuff>
 
-:mailbox: **You can reach me at my:** [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-carlos-moreno-aa2a18192)
+:mailbox: **You can reach me at my:** [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ---
 
